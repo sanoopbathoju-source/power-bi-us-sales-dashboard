@@ -53,7 +53,7 @@ These filters allow users to interactively explore sales performance.
 
 ## 📷 Dashboard Preview
 
-![US Sales Dashboard](screenshots/us-sales-dashboard.png)
+![US Sales Dashboard](https://github.com/sanoopbathoju-source/power-bi-us-sales-dashboard/blob/e1775d2f9c35cfb7a173997de583c5c35bf53a9e/Screenshot%202026-08-24%20201720.png)
 
 ## 📂 Dataset
 
